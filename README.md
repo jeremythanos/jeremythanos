@@ -35,5 +35,5 @@ I'm a systems engineering student passionate about web development and technolog
 ### 📫 Connect with me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeremy's LinkedIn" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jeremypaulino-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeremy's LinkedIn" height="30" width="40" /></a>
 </p>
